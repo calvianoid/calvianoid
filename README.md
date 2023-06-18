@@ -35,9 +35,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Languages and Tools :</h3>
 <p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,git" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,next,tailwind,nodejs,git" />
 </p>
 
 ### Github Statistic :
